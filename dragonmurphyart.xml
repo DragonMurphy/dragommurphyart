@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.22.2.2" platform="windows">
+	<Servers>
+		<Server>
+			<Host>dragonmurphyart.com</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>w00686991</User>
+			<Pass encoding="base64">TCh1cjF2X31KVDk=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>David</Name>
+			<Comments>L(ur1v_}JT9</Comments>
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>David</Server>
+		<Server>
+			<Host>rionalong.ie</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>w00720874</User>
+			<Pass encoding="base64">RG9uYWwwNzA4Kg==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>New site</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>New site</Server>
+		<Server>
+			<Host>David2</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>w00686991</User>
+			<Pass encoding="base64">TCh1cjF2X31KVDk=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>New site 3</Name>
+			<Comments>L(ur1v_}JT9</Comments>
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>New site 3</Server>
+	</Servers>
+	<Settings>
+		<Setting name="Use Pasv mode">1</Setting>
+		<Setting name="Limit local ports">0</Setting>
+		<Setting name="Limit ports low">6000</Setting>
+		<Setting name="Limit ports high">7000</Setting>
+		<Setting name="Limit ports offset">0</Setting>
+		<Setting name="External IP mode">0</Setting>
+		<Setting name="External IP" />
+		<Setting name="External address resolver">http://ip.filezilla-project.org/ip.php</Setting>
+		<Setting name="Last resolved IP" />
+		<Setting name="No external ip on local conn">1</Setting>
+		<Setting name="Pasv reply fallback mode">0</Setting>
+		<Setting name="Timeout">20</Setting>
+		<Setting name="Logging Debug Level">0</Setting>
+		<Setting name="Logging Raw Listing">0</Setting>
+		<Setting name="fzsftp executable" />
+		<Setting name="Allow transfermode fallback">1</Setting>
+		<Setting name="Reconnect count">2</Setting>
+		<Setting name="Reconnect delay">5</Setting>
+		<Setting name="Enable speed limits">0</Setting>
+		<Setting name="Speedlimit inbound">100</Setting>
+		<Setting name="Speedlimit outbound">20</Setting>
+		<Setting name="Speedlimit burst tolerance">0</Setting>
+		<Setting name="Preallocate space">0</Setting>
+		<Setting name="View hidden files">0</Setting>
+		<Setting name="Preserve timestamps">0</Setting>
+		<Setting name="Socket recv buffer size (v2)">4194304</Setting>
+		<Setting name="Socket send buffer size (v2)">262144</Setting>
+		<Setting name="FTP Keep-alive commands">0</Setting>
+		<Setting name="FTP Proxy type">0</Setting>
+		<Setting name="FTP Proxy host" />
+		<Setting name="FTP Proxy user" />
+		<Setting name="FTP Proxy password" />
+		<Setting name="FTP Proxy login sequence" />
+		<Setting name="SFTP keyfiles" />
+		<Setting name="SFTP compression">0</Setting>
+		<Setting name="Proxy type">0</Setting>
+		<Setting name="Proxy host" />
+		<Setting name="Proxy port">0</Setting>
+		<Setting name="Proxy user" />
+		<Setting name="Proxy password" />
+		<Setting name="Logging file" />
+		<Setting name="Logging filesize limit">10</Setting>
+		<Setting name="Logging show detailed logs">0</Setting>
+		<Setting name="Size format">0</Setting>
+		<Setting name="Size thousands separator">1</Setting>
+		<Setting name="Size decimal places">1</Setting>
+		<Setting name="TCP Keepalive Interval">15</Setting>
+		<Setting name="Number of Transfers">2</Setting>
+		<Setting name="Ascii Binary mode">0</Setting>
+		<Setting name="Auto Ascii files">am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsi|pas|patch|php|phtml|pl|po|py|qmail|sh|sha1|sha256|sha512|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
+		<Setting name="Auto Ascii no extension">1</Setting>
+		<Setting name="Auto Ascii dotfiles">1</Setting>
+		<Setting name="Theme">opencrystal/</Setting>
+		<Setting name="Language Code" />
+		<Setting name="Last Server Path">1 0 7 wwwroot 12 rionalong.ie</Setting>
+		<Setting name="Concurrent download limit">0</Setting>
+		<Setting name="Concurrent upload limit">0</Setting>
+		<Setting name="Update Check">1</Setting>
+		<Setting name="Update Check Interval">7</Setting>
+		<Setting name="Last automatic update check">2016-12-08 11:35:10</Setting>
+		<Setting name="Last automatic update version">3.22.2.2</Setting>
+		<Setting name="Update Check New Version">nightly 2016-12-08 http://filezilla-project.org/nightlies/2016-12-08/x86_64-w64-mingw32/FileZilla_3_setup.exe 7431640 sha512 ca10eabd491eb3cdf391e32ce331711bc13f52d7d9838e68e73f74a7a546eff131cc8ec5ee75facda989a579742529d9efe35287929750ec642a4b89bc8822b1 
+release 3.23.0.2 http://downloads.sourceforge.net/filezilla/FileZilla_3.23.0.2_win64-setup.exe 6880664 sha512 e2f5f092c78ce42b3510005572868367cc6fa834aba11efdb538b38203b006fe00e90aec9f59a255bf3d50060b71efc4e76fb5131885f763a1a0ab179a7cf183
+
+3.23.0.2 (2016-12-06)
+
+- Key file paths entered in the Site Manager are now saved to corresponding server entries in the transfer queue
+- MSW: Work around a bug in wxWidgets causing bad icons in the remote directory tree due to wxImageList::GetBitmap errorneously stripping the alpha channel from images
+- Allow relative paths and environment variables in the "Cache directory" setting.
+
+3.23.0.1 (2016-12-06)
+
+- Work around a bug in wxWidgets that has been causing a virtually infinite loop when deleting toolbar buttons
+
+3.23.0 (2016-12-05)
+
+- Speed up icon scaling and cache scaled icons for faster subsequent loading. The cache directory can be changed through fzdefaults.xml using the "Cache directory" setting
+- OS X: Fixed icon display on high-DPI displays in a few more dialogs
+- Loading a corrupted layout.xml or search.xml no longer shows an error message, these files are now silently overwritten
+- MSW: Fixed a regression where UNC paths where not handled correctly as config location in fzdefaults.xml
+
+3.23.0-rc1 (2016-11-28)
+
++ New high-resolution icons
++ Improvements to the sizing of icons and other user interface elements on high-DPI displays. For technical reasons, existing theme settings have been reverted to their default values. They can be changed again in the settings dialog.
++ Make use of the Unix.ownername and Unix.groupname facts for MLSD if available
+- The bookmarks menu updates again after changing global bookmarks
+- Adding a site to the Site Manager as part of adding a site-specific bookmark no longer fails if sitemanager.xml does not yet exist
+- Strip byte order marks at the beginning of directory listings
+- Add an option to filezilla.xml to control cache ttl
+</Setting>
+		<Setting name="Update Check Check Beta">0</Setting>
+		<Setting name="Show debug menu">0</Setting>
+		<Setting name="File exists action download">0</Setting>
+		<Setting name="File exists action upload">0</Setting>
+		<Setting name="Allow ascii resume">0</Setting>
+		<Setting name="Greeting version">3.22.2.2</Setting>
+		<Setting name="Greeting resources" />
+		<Setting name="Onetime Dialogs" />
+		<Setting name="Show Tree Local">1</Setting>
+		<Setting name="Show Tree Remote">1</Setting>
+		<Setting name="File Pane Layout">0</Setting>
+		<Setting name="File Pane Swap">0</Setting>
+		<Setting name="Last local directory">C:\Users\David\Desktop\wordpress\</Setting>
+		<Setting name="Filelist directory sort">0</Setting>
+		<Setting name="Filelist name sort">0</Setting>
+		<Setting name="Queue successful autoclear">0</Setting>
+		<Setting name="Queue column widths">180 60 180 80 60 150</Setting>
+		<Setting name="Local filelist colwidths">120 80 100 120</Setting>
+		<Setting name="Remote filelist colwidths">80 75 80 100 80 80</Setting>
+		<Setting name="Window position and size">0 157 55 931 600 </Setting>
+		<Setting name="Splitter positions (v2)">97 -131 267935578 136 136 500000000</Setting>
+		<Setting name="Local filelist sortorder">0 0</Setting>
+		<Setting name="Remote filelist sortorder">0 0</Setting>
+		<Setting name="Time Format" />
+		<Setting name="Date Format" />
+		<Setting name="Show message log">1</Setting>
+		<Setting name="Show queue">1</Setting>
+		<Setting name="Default editor" />
+		<Setting name="Always use default editor">0</Setting>
+		<Setting name="Inherit system associations">1</Setting>
+		<Setting name="Custom file associations" />
+		<Setting name="Comparison mode">1</Setting>
+		<Setting name="Comparison threshold">1</Setting>
+		<Setting name="Site Manager position">0 267 115 629 473 </Setting>
+		<Setting name="Theme icon size" />
+		<Setting name="Timestamp in message log">0</Setting>
+		<Setting name="Sitemanager last selected">0/New site 3</Setting>
+		<Setting name="Local filelist shown columns">1111</Setting>
+		<Setting name="Remote filelist shown columns">111111</Setting>
+		<Setting name="Local filelist column order">0,1,2,3</Setting>
+		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
+		<Setting name="Filelist status bar">1</Setting>
+		<Setting name="Filter toggle state">0</Setting>
+		<Setting name="Show quickconnect bar">1</Setting>
+		<Setting name="Messagelog position">0</Setting>
+		<Setting name="Last connected site">0/New site</Setting>
+		<Setting name="File doubleclock action">0</Setting>
+		<Setting name="Dir doubleclock action">0</Setting>
+		<Setting name="Minimize to tray">0</Setting>
+		<Setting name="Search column widths" />
+		<Setting name="Search column shown" />
+		<Setting name="Search column order" />
+		<Setting name="Search window size" />
+		<Setting name="Comparison hide identical">0</Setting>
+		<Setting name="Search sort order" />
+		<Setting name="Edit track local">1</Setting>
+		<Setting name="Prevent idle sleep">1</Setting>
+		<Setting name="Filteredit window size" />
+		<Setting name="Enable invalid char filter">1</Setting>
+		<Setting name="Invalid char replace">_</Setting>
+		<Setting name="Already connected choice">1</Setting>
+		<Setting name="Edit status dialog size" />
+		<Setting name="Display current speed">0</Setting>
+		<Setting name="Toolbar hidden">0</Setting>
+		<Setting name="Strip VMS revisions">0</Setting>
+		<Setting name="Show Site Manager on startup">0</Setting>
+		<Setting name="Prompt password change">1</Setting>
+		<Setting name="Persistent Choices">0</Setting>
+		<Setting name="Queue completion action">1</Setting>
+		<Setting name="Queue completion command" />
+		<Setting name="Drag and Drop disabled">0</Setting>
+		<Setting name="Disable update footer">0</Setting>
+		<Setting name="Config Location">C:\Users\David\AppData\Roaming\FileZilla\</Setting>
+		<Setting name="Kiosk mode">0</Setting>
+		<Setting name="Disable update check">0</Setting>
+		<LastServer>
+			<Host>rionalong.ie</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>w00720874</User>
+			<Pass encoding="base64">RG9uYWwwNzA4Kg==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>New site</Name>
+		</LastServer>
+	</Settings>
+	<Queue />
+</FileZilla3>
